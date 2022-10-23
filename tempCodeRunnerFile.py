@@ -1,3 +1,1 @@
-Afeitarse()
-Pesarse()
-Desayunar()
+foto
