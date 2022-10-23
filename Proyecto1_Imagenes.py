@@ -28,5 +28,5 @@ for a in range(10):
 for b in range(10):
     lista_hilos[a].join()
     
-print(time.process_time()) # Tiempo sin hilos : 0.359 seg
+print(time.process_time()) # Tiempo sin hilos : 2.208 seg
                             # Tiempo con hilos : 0.42 seg
