@@ -1,0 +1,3 @@
+Afeitarse()
+Pesarse()
+Desayunar()
